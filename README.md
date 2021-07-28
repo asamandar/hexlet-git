@@ -1,2 +1,1 @@
-Hello hexlet!
-My first expirience on github
+Hello, Hexlet! How are you?
